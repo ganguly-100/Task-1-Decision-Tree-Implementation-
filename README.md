@@ -25,4 +25,10 @@ The final stage of the project focused on evaluation and visualization. After tr
 
 *OUTPUT*:
 
-img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/694fbea1-0c5b-4e83-a076-64f8b0ab048e" />
+<img width="1920" height="1020" alt="Decision Tree Classifier with Visualization - Colab - Google Chrome 30-09-2025 23_01_49" src="https://github.com/user-attachments/assets/97f45f8a-b28d-4030-a59d-b5933429264c" />
+<img width="1920" height="1020" alt="Decision Tree Classifier with Visualization - Colab - Google Chrome 30-09-2025 23_07_34" src="https://github.com/user-attachments/assets/e260d1d7-514d-4698-a0c9-65b102c6fcfa" />
+<img width="1920" height="1020" alt="Decision Tree Classifier with Visualization - Colab - Google Chrome 30-09-2025 23_07_59" src="https://github.com/user-attachments/assets/34005b95-72b4-4a75-9806-f80e88979f1b" />
+<img width="1920" height="1020" alt="Decision Tree Classifier with Visualization - Colab - Google Chrome 30-09-2025 23_08_04" src="https://github.com/user-attachments/assets/719cb719-3774-4fa4-8d25-86b2e9f88091" />
+
+
+
